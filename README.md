@@ -12,6 +12,6 @@ This project uses **JavaScript**, **HTML** and **CSS**.
 
 ## Images
 </br>
-<img width="1203" alt="Screenshot 2025-01-14 at 16 25 02" src="https://github.com/user-attachments/assets/a02698a7-83be-4d06-b96f-ac849ee6d150" />
+<img width="1203" alt="Screenshot 2025-01-14 at 16 46 19" src="https://github.com/user-attachments/assets/d68e1dd6-af4d-4cb9-878b-8577de5c97f8" />
 </br>
 <img width="1203" alt="Screenshot 2025-01-14 at 16 32 07" src="https://github.com/user-attachments/assets/47873a99-045d-4e75-b215-414441e28888" />
