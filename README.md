@@ -11,7 +11,7 @@ This project uses **JavaScript**, **HTML** and **CSS**.
 - Your score is displayed on the right side of the START button, while the all-time highest score is shown on the left.</br>
 
 ## Images
-</br>Switching on the game, starting at 0 points</br></br>
 <img width="1203" alt="Screenshot 2025-01-14 at 16 46 19" src="https://github.com/user-attachments/assets/d68e1dd6-af4d-4cb9-878b-8577de5c97f8" />
-</br>Losing the game with a highscore of 6</br></br>
+</br></br>Switching on the game, starting at 0 points</br></br>
 <img width="1203" alt="Screenshot 2025-01-14 at 16 32 07" src="https://github.com/user-attachments/assets/47873a99-045d-4e75-b215-414441e28888" />
+</br></br>Losing the game with a highscore of 6</br></br>
