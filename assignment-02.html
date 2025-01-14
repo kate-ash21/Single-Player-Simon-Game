@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Single-Player Simon Game</title>
+    <link rel="stylesheet" href="assignment-02.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="title">Single-Player Simon Game</div>
+
+      <div id="big-black-circle">
+        <div id="central-buttons">
+          <label id="highscore">00</label>
+          <button id="start" onClick="start()">START</button>
+          <label id="progress">00</label>
+        </div>
+
+        <div id="game-indicator"></div>
+      </div>
+
+      <div id="small-black-circle1">
+        <button id="green-circle" onClick="input(0)"></button>
+      </div>
+
+      <div id="small-black-circle2">
+        <button id="red-circle" onClick="input(1)"></button>
+      </div>
+
+      <div id="small-black-circle3">
+        <button id="yellow-circle" onClick="input(2)"></button>
+      </div>
+
+      <div id="small-black-circle4">
+        <button id="blue-circle" onClick="input(3)"></button>
+      </div>
+    </div>
+
+    <script src="assignment-02.js"></script>
+  </body>
+</html>

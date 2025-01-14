@@ -1,0 +1,165 @@
+.container
+{
+    position:relative;
+    background-color:rgb(255, 255, 255);
+    width:900px;
+    height:860px;
+    margin: 0 auto;
+
+}
+.title
+{
+    text-align:center;
+    font-family: "Orbitron", sans-serif;
+    color:black; 
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center; 
+    font-size: 50px;
+}
+
+#big-black-circle
+{
+    width:450px;
+    height:450px;
+    background: rgb(0, 0, 0);
+    border-radius: 50%;
+
+    /* Positioning the circle */
+    position:absolute; 
+    top:200px;
+    left:230px;
+}
+
+/* ------------------------------on black circle------------------------------------- */
+#central-buttons
+{
+    position:absolute;
+    width:280px;
+    top:225px;
+    left:95px;
+}
+#start 
+{ 
+    font-size:30px;
+    font-family: "Orbitron", sans-serif;
+    padding:5px;
+    background:white; 
+    border-radius:10%;
+}
+label
+{
+    font-size:30px;
+    font-family: "Orbitron", sans-serif;
+    padding:5px;
+    background:white; 
+    border-radius:10%;
+}
+#game-indicator
+{
+    position:absolute;
+    width:15px;
+    height:15px;
+    background:linear-gradient(to top right, red 30%, white);
+    border-radius: 50%;
+
+    top:300px;
+    left:220px;
+}
+/* -------------------------------------------small black circles------------------------------------------------ */
+#small-black-circle1
+{   
+    width:260px;
+    height:260px;
+    background:rgb(0, 0, 0);
+    border-radius: 50%;
+
+    position:absolute;
+    top:90px;
+    left:100px;
+}
+
+#small-black-circle2
+{
+    width:260px;
+    height:260px;
+    background:rgb(0, 0, 0);
+    border-radius: 50%;
+
+    position:absolute;
+    top:90px;
+    right:100px;
+}
+#small-black-circle3
+{
+    width:260px;
+    height:260px;
+    background:rgb(0, 0, 0);
+    border-radius: 50%;
+
+    position:absolute;
+    bottom:90px;
+    left:100px;
+}
+#small-black-circle4
+{
+    width:260px;
+    height:260px;
+    background:rgb(0, 0, 0);
+    border-radius: 50%;
+
+    position:absolute;
+    bottom:90px;
+    right:100px;
+}
+/* ------------------------------------------coloured circles---------------------------------------------- */
+#green-circle
+{
+    width:220px;
+    height:220px;
+    border-radius: 50%;
+    background:linear-gradient(to top right, green 30%, white);
+    border-color: rgb(0, 0, 0);
+
+    position:absolute;
+    top:20px;
+    left:20px;
+}
+#red-circle
+{
+    width:220px;
+    height:220px;
+    border-radius: 50%;
+    background:linear-gradient(to top right, red 30%, white);
+    border-color: black;
+
+    position:absolute;
+    top:20px;
+    right:20px;
+}
+#yellow-circle
+{
+    width:220px;
+    height:220px;
+    border-radius: 50%;
+    background:linear-gradient(to top right, rgb(255, 238, 0) 30%, white);
+    border-color: black;
+
+    position:absolute;
+    top:20px;
+    left:20px;
+}
+#blue-circle
+{
+    width:220px;
+    height:220px;
+    border-radius: 50%;
+    background:linear-gradient(to top right, blue 30%, white);
+    border-color: black;
+
+    position:absolute;
+    top:20px;
+    right:20px;
+}
+/* ------------------------------------------------------------------------------------------- */
